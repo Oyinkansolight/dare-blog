@@ -1,51 +1,24 @@
 ---
-title: The Origins of Social Stationery Lettering
-date: "2016-12-01T22:40:32.169Z"
+title: Selling Like A Professional
+date: "2020-12-01T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "the-origins-of-social-stationery-lettering"
-category: "Design Culture"
-description: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante."
+slug: "selling-like-a-professional."
+category: "Business James-David."
+description: "Selling is an activity that runs in the blood of every Entrepreneur. You have something to offer the people."
 socialImage: "/media/image-3.jpg"
 ---
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
+**As a seller,your interest is to proffer a solution to a problem?** People are ready to pay for solution offer to them. How are you taking advantage of this opportunity? Why is it that there is a great problem entrepreneurs face,there are many nos to the yeses. There are times you offer a sale of a service and you are turned down at. Firstly, before we devour the discourse set before us,selling like a professional. Let me share this story with you 🏠. This is an emotional story,that almost turn my heart,but,cause I love what I am doing, I said this is just a build up.
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
+One bright morning, I went to market some of my books to a school. The way the gateman scorned me was enough to spark an ignition to move my self from their 🏫. I told myself that I have no business with the gateman. I told myself the gateman is not my market. I understood that the only way to disarm the gateman is to smile and speak confidently and respectfully.
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-3.jpg)
 
-## Header Level 2
+He asked me if I have appointment with the school,I told him the reason why am here is for the growth of the 🏫. I told him that I had authored many books and still intend do more. He allowed me to see the school management. I greeted the proprietor and he bought 30 copies of The Art Of A Genius.
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+While I was about leaving the school, I gave the gateman some amount of 💰 and this made him to smile. Thank God that I didn't allow the the look of the gateman to deprive me from selling 30 copies that morning. Relationship is one key way to sell your products or services. You must look at how you could offer help to people,the way the human mind works,people are ready to assist,when you give your assistance to them.
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. 
+No matter how difficult sales is,always believe you will sell - James David.
 
-<figure>
-	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
-		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
-		</footer>
-	</blockquote>
-</figure>
-
-### Header Level 3
-
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
-
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
-
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-
-![Test SVG](/media/cpu.svg)
+234-7033846029.
