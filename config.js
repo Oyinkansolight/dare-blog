@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://sharp-leavitt-309070.netlify.app',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by James David',
+  subtitle: 'Preview of works by James David.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,12 +25,12 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'James David',
+    photo: '/photo.jpeg',
+    bio: 'James David is the same as Oluwadamilare Onaneye. He is a prolific writer and motivational speaker. He is also a researcher. He is an entrepreneur. He is an inventor.',
     contacts: {
       email: '',
-      facebook: '#',
+      facebook: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi-5pOc8LvtAhWNT8AKHRa3DYcQFjAAegQIAxAC&url=https%3A%2F%2Fwww.facebook.com%2Fpublic%2FOluwadamilare-Onaneye&usg=AOvVaw0DsquL4IjsNZTwhAU6oRpW',
       telegram: '#',
       twitter: '#',
       github: '#',
