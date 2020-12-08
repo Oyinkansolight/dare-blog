@@ -4,7 +4,7 @@ date: "2020-08-18T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "teaching-and-showing-love"
-category: "Typography"
+category: "Poem"
 tags:
     - "Poem"
 description: "Poem."
